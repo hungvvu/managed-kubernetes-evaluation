@@ -1,0 +1,5 @@
+Publication Years	Record Count	% of 5
+2024	2	40.000
+2022	1	20.000
+2020	1	20.000
+2019	1	20.000
